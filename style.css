@@ -1,0 +1,28 @@
+
+    #logo1{
+        text-align: center;
+        padding-left: 10px;
+        padding-top: -10px;
+        padding-bottom: -10px;
+        padding-right: -10px;
+    }
+     h1{
+        color: whitesmoke;
+        height: 8%;
+        width: 20%;
+        background-color: orangered;
+        border-radius: 10px;
+        font-family: 'Roboto', sans-serif;
+    }
+    #my_div{
+      padding-bottom:200px;
+    }
+    #output{
+      background-color: white;
+      border-radius: 10px;
+      border-top: 10px solid pink;
+      padding: 10px;
+      float: none;
+      text-align: left;
+      
+    }
